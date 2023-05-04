@@ -1,0 +1,22 @@
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Davion\Desktop\Cours\C#\Windows Forms 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Demineur.resources
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Demineur.resources
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Davion\Desktop\Cours\C#\Demineur\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
